@@ -1,3 +1,3 @@
-# eda_tbd
+# Replicating Basic Arithmetic
 
-An exploration of traffic data for the Houston metropolitan area.
+Today we replicated basic arithmetic using Python.
